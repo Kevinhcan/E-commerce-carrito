@@ -1,0 +1,372 @@
+[
+    {
+        "id": "Hamburguesa-clasica",
+        "titulo": "Hamburguesa Clasica",
+        "imagen": "./img/burguer/Clasica.jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Hamburguesa-de-pollo",
+        "titulo": "Hamburguesa de pollo",
+        "imagen": "./img/burguer/Pollo.jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "Hamburguesa-doble",
+        "titulo": "Hamburguesa doble carne mixta",
+        "imagen": "./img/burguer/Doble carne Mixta.jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "Hamburguesa-doble-carne",
+        "titulo": "Hamburguesa doble carne",
+        "imagen": "./img/burguer/Doble carne.jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "Hamburguesa-gigante",
+        "titulo": "Hamburguesa Gigante",
+        "imagen": "./img/burguer/Gigante.jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "Hamburguesa-Sencilla",
+        "titulo": "Hamburguesa Sencilla",
+        "imagen": "./img/burguer/Sencilla.jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "Hamburguesa-vegana",
+        "titulo": "Hamburguesa Vegana",
+        "imagen": "./img/burguer/Vegana.jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 22000
+    },
+    {
+        "id": "hot-dog-americano",
+        "titulo": "Hot dog tipo Americano",
+        "imagen": "./img/Hotdogs/Americano.jpg",
+        "categoria": {
+            "nombre": "Hot-Dogs",
+            "id": "Hot-Dogs"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "hot-dog-clasico",
+        "titulo": "Hot dog Clásico",
+        "imagen": "./img/Hotdogs/Clasico.jpg",
+        "categoria": {
+            "nombre": "Hot-Dogs",
+            "id": "Hot-Dogs"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "hot-dog-mexicano",
+        "titulo": "Hot dog Méxicano",
+        "imagen": "./img/Hotdogs/Mexicano.jpg",
+        "categoria": {
+            "nombre": "Hot-Dogs",
+            "id": "Hot-Dogs"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "hot-dog-pollo",
+        "titulo": "Hot dog de pollo",
+        "imagen": "./img/Hotdogs/Salchicha de pollo.jpg",
+        "categoria": {
+            "nombre": "Hot-Dogs",
+            "id": "Hot-Dogs"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "hot-dog-sencillo",
+        "titulo": "Hot dog sencillo",
+        "imagen": "./img/Hotdogs/Sencillo.jpg",
+        "categoria": {
+            "nombre": "Hot-Dogs",
+            "id": "Hot-Dogs"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "hot-dog-tres-carnes",
+        "titulo": "Hot dog tres carnes",
+        "imagen": "./img/Hotdogs/Tres carnes.jpg",
+        "categoria": {
+            "nombre": "Hot-Dogs",
+            "id": "Hot-Dogs"
+        },
+        "precio": 22000
+    },
+    {
+        "id": "hot-dog-vegano",
+        "titulo": "Hot dog vegano",
+        "imagen": "./img/Hotdogs/Vegano.jpg",
+        "categoria": {
+            "nombre": "Hot-Dogs",
+            "id": "Hot-Dogs"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "pizza-4quesos",
+        "titulo": "Pizza 4 Quesos",
+        "imagen": "./img/Pizzas/4 Quesos.jpeg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "Pizzas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "pizza-carnes",
+        "titulo": "Pizza de carnes",
+        "imagen": "./img/Pizzas/Carnes.jpeg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "Pizzas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "pizza-champiñones",
+        "titulo": "Pizza de Champiñones",
+        "imagen": "./img/Pizzas/Champiñones.jpeg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "Pizzas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "pizza-con-piña",
+        "titulo": "Pizza con piña",
+        "imagen": "./img/Pizzas/Con piña.jpeg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "Pizzas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "pizza-pepperoni",
+        "titulo": "Pizza de pepperoni",
+        "imagen": "./img/Pizzas/Pepperoni.jpg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "Pizzas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "pizza-de-pollo",
+        "titulo": "Pizza de pollo",
+        "imagen": "./img/Pizzas/Pollo.jpg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "Pizzas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "pizza-mexicana",
+        "titulo": "Pizza Méxicana",
+        "imagen": "./img/Pizzas/Mexicana.jpg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "Pizzas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "Piña",
+        "titulo": "Jugo de Piña",
+        "imagen": "./img/Jugos/Piña.jpg",
+        "categoria": {
+            "nombre": "Jugos",
+            "id": "Jugos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "fresa",
+        "titulo": "Jugo de Fresa",
+        "imagen": "./img/Jugos/Fresa.jpg",
+        "categoria": {
+            "nombre": "Jugos",
+            "id": "Jugos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "Guanabana",
+        "titulo": "Jugo de Guanabana",
+        "imagen": "./img/Jugos/Guanabana.jpg",
+        "categoria": {
+            "nombre": "Jugos",
+            "id": "Jugos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "Maracuya",
+        "titulo": "Jugo de Maracuya",
+        "imagen": "./img/Jugos/Maracuya.jpg",
+        "categoria": {
+            "nombre": "Jugos",
+            "id": "Jugos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "Mora",
+        "titulo": "Jugo de Mora",
+        "imagen": "./img/Jugos/Mora.jpg",
+        "categoria": {
+            "nombre": "Jugos",
+            "id": "Jugos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "Naranja",
+        "titulo": "Jugo de Naranja",
+        "imagen": "./img/Jugos/Naranja.jpg",
+        "categoria": {
+            "nombre": "Jugos",
+            "id": "Jugos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "Aguila",
+        "titulo": "Cerveza Aguila",
+        "imagen": "./img/Cervezas/Aguila.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "Cervezas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "Poker",
+        "titulo": "Cerveza Poker",
+        "imagen": "./img/Cervezas/Poker.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "Cervezas"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "Club Colombia",
+        "titulo": "Cerveza Club Colombia",
+        "imagen": "./img/Cervezas/Club Colombia.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "Cervezas"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "BBC",
+        "titulo": "Cerveza BBC",
+        "imagen": "./img/Cervezas/BBC.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "Cervezas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "Corona",
+        "titulo": "Cerveza Corona",
+        "imagen": "./img/Cervezas/Corona.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "Cervezas"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "7up",
+        "titulo": "Gaseosa 7up",
+        "imagen": "./img/Gaseosas/7up.jpg",
+        "categoria": {
+            "nombre": "Gaseosas",
+            "id": "Gaseosas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "Coca-cola",
+        "titulo": "Gaseosa Coca-cola",
+        "imagen": "./img/Gaseosas/Cocacola.jpeg",
+        "categoria": {
+            "nombre": "Gaseosas",
+            "id": "Gaseosas"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "Colombiana",
+        "titulo": "Gaseosa Colombiana",
+        "imagen": "./img/Gaseosas/Colombiana.jpg",
+        "categoria": {
+            "nombre": "Gaseosas",
+            "id": "Gaseosas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "Manzana",
+        "titulo": "Gaseosa Manzana",
+        "imagen": "./img/Gaseosas/Manzana.jpg",
+        "categoria": {
+            "nombre": "Gaseosas",
+            "id": "Gaseosas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "Pepsi",
+        "titulo": "Gaseosa Pepsi",
+        "imagen": "./img/Gaseosas/Pepsi.jpg",
+        "categoria": {
+            "nombre": "Gaseosas",
+            "id": "Gaseosas"
+        },
+        "precio": 6000
+    }
+]
